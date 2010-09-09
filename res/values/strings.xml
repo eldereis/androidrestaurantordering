@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">TouchMenu</string>
+    <string name="home">HomeScreen</string>
+     <string name="category ">Category Screen</string>
+     <string name="confirmItem "> Confirm Add Item Screen </string>
+     <string name="maincourseitems"> Main Course Screen</string>
+    <string name="desertitems"> Desert items screen</string>
+     <string name="drinkslist ">Drinks Screen</string>
+     <string name="orderedItems ">  Ordered Items Screen</string>
+     <string name="initialization ">  Initialization Screen </string>
+         <string name=" settings">  menu_item_settings </string>
+         <string name="menu_item_help"> help</string>
+</resources>
