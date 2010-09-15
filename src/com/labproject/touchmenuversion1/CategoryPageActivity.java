@@ -1,5 +1,6 @@
 package com.labproject.touchmenuversion1;
 
+
 import android.os.Bundle;
 
 public class CategoryPageActivity extends MenuActivity{
