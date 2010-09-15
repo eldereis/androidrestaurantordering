@@ -12,4 +12,5 @@
      <string name="initialization ">  Initialization Screen </string>
          <string name=" settings">  menu_item_settings </string>
          <string name="menu_item_help"> help</string>
+         <string name="login"> Login Screen</string>
 </resources>
