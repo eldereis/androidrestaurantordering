@@ -83,6 +83,7 @@ android:layout_height="wrap_content"
 android:text="Refill Drinks"
 >
 </TextView>
+
 </TableRow>
 <TableRow
 android:id="@+id/viewordersrow"
@@ -132,12 +133,11 @@ android:text="Pay my Bill"
 </TableRow>
 <TableRow
 android:id="@+id/exitrow"
-android:layout_width="112px"
 android:layout_height="wrap_content"
 android:orientation="horizontal"
 android:layout_alignParentBottom="true"
 android:layout_alignLeft="@+id/widget29"
->
+android:layout_alignParentRight="true" android:layout_width="80dip">
 <ImageButton
 android:id="@+id/exiticon"
 android:layout_width="wrap_content"
